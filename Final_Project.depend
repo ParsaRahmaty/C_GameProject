@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1548090144 source:c:\9731021\final_project\linked_list_functions.c
+	<stdio.h>
+	"LINKED_LIST_FUNCTIONS.h"
+
+1548088946 c:\9731021\final_project\linked_list_functions.h
+	<stdio.h>
+
+1548144700 source:c:\9731021\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"LINKED_LIST_FUNCTIONS.h"
+
+1548093744 source:c:\9731021\c first term\final_project\linked_list_functions.c
+	<stdio.h>
+	"LINKED_LIST_FUNCTIONS.h"
+
+1594051214 c:\9731021\c first term\final_project\linked_list_functions.h
+	<stdio.h>
+
+1594050968 source:c:\9731021\c first term\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	"LINKED_LIST_FUNCTIONS.h"
+
